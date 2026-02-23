@@ -1,15 +1,14 @@
-# 📚 Mes Cours - 2024/2025
+# 🎓 Mon Portail de Cours - smerabet212-beep
 
-Bienvenue sur mon portail de révision ! Voici l'accès à mes différentes matières :
+Bienvenue sur mon site de révision !  
 
-## 🧪 Sciences
-- [Lien vers le cours de Physique](lien-vers-ton-doc)
-- Notes sur la photosynthèse (SVT)
+Clique sur une matière pour voir les fichiers.  
 
-## 🧮 Mathématiques
-- Chapitre 1 : Fonctions
-- Chapitre 2 : Géométrie
+---
 
-## 🌍 Histoire-Géo
-- [Résumé : La Seconde Guerre Mondiale](https://github.com/smerabet212-beep/myclasses_sme/blob/main/Histoire/Chapitre1.md)
+### 📂 Matières
 
+# <kbd>[🌱 SVT](https://drive.google.com/drive/folders/1vOHST0Zc0j0QlP0WPqMjzG_JF1rAzud7?usp=sharing)</kbd>
+
+---
+*Dernière mise à jour : Février 2026*
