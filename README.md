@@ -11,4 +11,5 @@ Bienvenue sur mon portail de révision ! Voici l'accès à mes différentes mati
 - Chapitre 2 : Géométrie
 
 ## 🌍 Histoire-Géo
-- [Résumé : La Seconde Guerre Mondiale](lien-vers-ton-drive)
+- [Résumé : La Seconde Guerre Mondiale](https://github.com/smerabet212-beep/myclasses_sme/blob/main/Histoire/Chapitre1.md)
+
