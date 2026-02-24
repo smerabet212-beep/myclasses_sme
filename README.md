@@ -1,7 +1,17 @@
-# 🎓 Mon Portail de Cours
+# 🎓 Mon Portail de Cours - smerabet212-beep
 
-Choisis une matière 👇
+Bienvenue sur mon site de révision ! Cliquez sur une matière pour accéder à toutes les leçons :  
 
-## 🌱 [SVT](SVT.md)
-## 📜 [Histoire](Histoire.md)
-## 🇶🇦 [Histoire du Qatar](Histoire-Qatar.md)
+---
+
+### 📂 Mes Matières
+
+# <kbd>[🌱 SVT](SVT.md)</kbd>
+
+# <kbd>[📜 Histoire](Histoire.md)</kbd>
+
+# <kbd>[📐 Mathématiques](Maths.md)</kbd>
+
+---
+
+*Dernière mise à jour : Février 2025*

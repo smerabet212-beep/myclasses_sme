@@ -1,4 +1,4 @@
-# 🌱 SVT - Toutes les leçons
+# 📐 Mathématiques - Toutes les leçons
 
 ## Leçon 1 : Nom de la lecon
 - [PDF / Drive Link](TON_LIEN_ICI)
