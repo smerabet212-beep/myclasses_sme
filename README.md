@@ -9,9 +9,10 @@ Bienvenue sur mon site de révision ! Cliquez sur une matière pour accéder à 
 # <kbd>[🌱 SVT](SVT.md)</kbd>
 
 # <kbd>[📜 Histoire](Histoire.md)</kbd>
+# <kbd>[📜 Histoire](Histoire.md)</kbd
 
 # <kbd>[📐 Mathématiques](Maths.md)</kbd>
 
 ---
 
-*Dernière mise à jour : Février 2025*
+*Dernière mise à jour : Février 2025**Dernière mise à jour : Février 2025* 
